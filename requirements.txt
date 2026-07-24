@@ -1,0 +1,2 @@
+mypkg @ git+https://github.com/marouanedahmani27-coder/mypkg-fingerprint-1784931136.git@main
+requests==2.31.0

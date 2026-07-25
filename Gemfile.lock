@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/marouanedahmani27-coder/mygem-fingerprint-1784931559.git
+  revision: f62d7299a1a1ec3d98e65f22e259d717418881a8
+  tag: v0.0.17
+  specs:
+    mygem (0.0.17)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json (= 2.7.1)
+  mygem!
+
+BUNDLED WITH
+   1.17.2

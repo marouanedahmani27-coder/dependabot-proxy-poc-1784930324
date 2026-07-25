@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/marouanedahmani27-coder/mygem-fingerprint-1784931559.git
-  revision: f62d7299a1a1ec3d98e65f22e259d717418881a8
-  tag: v0.0.17
+  revision: c572f5810fd0b774ff73697a0b481bb6099a5c7e
+  tag: v0.0.19
   specs:
-    mygem (0.0.17)
+    mygem (0.0.19)
 
 GEM
   remote: https://rubygems.org/

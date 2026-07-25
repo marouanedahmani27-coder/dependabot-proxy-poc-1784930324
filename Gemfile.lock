@@ -8,13 +8,13 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    json (2.7.1)
+    json (2.21.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  json (= 2.7.1)
+  json (= 2.21.1)
   mygem!
 
 BUNDLED WITH
